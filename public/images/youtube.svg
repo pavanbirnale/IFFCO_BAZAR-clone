@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4131" data-name="Rectangle 4131" width="20" height="20" transform="translate(-9711 14038)" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11392" data-name="Group 11392" transform="translate(-77 -177)">
+    <g id="Mask_Group_307" data-name="Mask Group 307" transform="translate(9788 -13861)" clip-path="url(#clip-path)">
+      <g id="logo--youtube" transform="translate(-9711 14038)">
+        <path id="Path_11002" data-name="Path 11002" d="M18.381,5.788a2.187,2.187,0,0,0-1.544-1.544A51.855,51.855,0,0,0,10,3.875a51.855,51.855,0,0,0-6.837.369A2.187,2.187,0,0,0,1.619,5.788,22.581,22.581,0,0,0,1.25,10a22.581,22.581,0,0,0,.369,4.212,2.188,2.188,0,0,0,1.544,1.544A51.855,51.855,0,0,0,10,16.125a51.855,51.855,0,0,0,6.837-.369,2.188,2.188,0,0,0,1.544-1.544A22.581,22.581,0,0,0,18.75,10,22.581,22.581,0,0,0,18.381,5.788ZM8.25,12.625V7.375L12.794,10Z" fill="#fd3831"/>
+        <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="20" height="20" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

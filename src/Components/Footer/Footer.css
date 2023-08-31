@@ -1,0 +1,9 @@
+footer {
+    background-color: #333; /* Change to desired background color */
+    color: #fff; /* Change to desired text color */
+    padding: 20px; 
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    margin-top: auto;
+}
